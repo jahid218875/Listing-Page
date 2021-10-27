@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.bar{
+    background-color: #009FAA;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin-top: 18px;
+}
+.tag{
+    background-color: #009FAA;
+    color: white;
+    padding: 5px 40px;
+}
+.icon-color{
+    color: #009FAA;
+}
+.location-text{
+    font-size: 15px;
+    font-weight: 300;
+    margin: auto 0;
+}
+.open-text p{
+    font-size: 20px;
+}
+.domain-text{
+    margin: auto 0;
+}
+
